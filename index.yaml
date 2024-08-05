@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mjhurianginx:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-08-05T11:54:50.791756986Z"
+    description: A Helm chart for Kubernetes
+    digest: 0d1a25b298f0225534562902e6d84703dfb02f4fad082bc6d8f7f74129aa5808
+    name: mjhurianginx
+    type: application
+    urls:
+    - https://github.com/jhuriaj/helm-terraform/releases/download/mjhurianginx-0.1.0/mjhurianginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-08-05T11:54:50.791786107Z"
